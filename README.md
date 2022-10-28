@@ -1,5 +1,5 @@
 # Java Guice inject demo
-A Guice inject demo, this demo includes all the bindings, and integrate a jetty server to test singleton scope.
+A Guice inject demo, this demo includes all the bindings, AOP, and integrate a jetty server to test singleton scope.
 
 
 Build the application by running:
